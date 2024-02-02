@@ -1,8 +1,24 @@
 export default function Services() {
+    services: [
+      {
+      title: 'Service 1',
+      description: 'Service 1 description'
+    },
+    {
+      title: 'Service 2',
+      description: 'Service 2 description'
+    },
+    {
+      title: 'Service 3',
+      description: 'Service 3 description'
+    }
+  ]
     return (
+      <>
       <h1>SERVICES</h1>
       <p>
-       range of services to meet your needs. We are here to help you reach your goals.
+       We are here to help you reach your goals.
       </p>
+      </>
     )
   }
