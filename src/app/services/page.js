@@ -11,6 +11,10 @@ export default function Services() {
     {
       title: 'Service 3',
       description: 'Service 3 description'
+    },
+    {
+      title: 'Service 4',
+      description: 'Service 4 description'
     }
   ]
     return (
