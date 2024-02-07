@@ -79,15 +79,15 @@ const ContactUs = () => {
                             type="submit"
                             value="Send"
                             disabled={!isValid}
-                            style={{
-                                backgroundColor: '#4caf50',
-                                color: 'white',
-                                padding: '0.5rem 1rem',
-                                marginTop: '1rem',
-                                border: 'none',
-                                borderRadius: '4px',
-                                cursor: 'pointer',
-                            }}
+                            // style={{
+                            //     backgroundColor: '#4caf50',
+                            //     color: 'white',
+                            //     padding: '0.5rem 1rem',
+                            //     marginTop: '1rem',
+                            //     border: 'none',
+                            //     borderRadius: '4px',
+                            //     cursor: 'pointer',
+                            // }}
                         >
                             Submit
                         </button>
