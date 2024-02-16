@@ -80,7 +80,7 @@ const ContactUs = () => {
                             value="Send"
                             disabled={!isValid}
                             style={{
-                                backgroundColor: '#4caf50',
+                                backgroundColor: 'blue',
                                 color: 'white',
                                 padding: '0.5rem 1rem',
                                 border: 'none',
